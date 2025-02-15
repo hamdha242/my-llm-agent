@@ -23,7 +23,7 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository  
 ```sh
-git clone https://github.com/anony0900/my-llm.git
+git clone https://github.com/hamdha242/my-llm-agent
 ```
 ```sh
 cd my-llm  
